@@ -8,7 +8,7 @@
 
 ## What This Is
 
-I started this repository to work through a question that kept surfacing in my reading: *What happens when artificial intelligence systems trained on one population are applied to another with fundamentally different biology, healthcare contexts, and data landscapes?*
+I started this repository to work through a question that kept surfacing in my reading, *What happens when artificial intelligence systems trained on one population are applied to another with fundamentally different biology, healthcare contexts, and data landscapes?*
 
 This isn't a finished project. It's a space where I'm developing ideas, testing arguments, and documenting what I'm learning about the intersection of AI, genomics, and health equity in African contexts.
 
@@ -17,6 +17,7 @@ This isn't a finished project. It's a space where I'm developing ideas, testing 
 AI systems in biomedical research are treated as technical instruments. But they're built on data that reflects specific social, historical, and institutional conditions. When those conditions exclude entire populations, what gets encoded into the models and what gets left out?
 
 I'm particularly interested in how this plays out for **triple-negative breast cancer (TNBC) in East African women**:
+
 - TNBC has a higher prevalence in East Africa than in European populations
 - The genomic landscape differs in clinically significant ways
 - Most AI training data comes from European and North American cohorts
@@ -58,16 +59,18 @@ I'm not running new machine learning models. Instead, I'm analyzing how existing
 ## How to Engage
 
 This is an open notebook, not a publication. If you're working on similar questions or think I'm missing something open an issue or reach out. I'm particularly interested in:
+
 - Case studies of AI deployment in African oncology settings
-- Examples of community-accountable data governance
+- Examples of community accountable data governance
 - Critical perspectives on AI fairness metrics
 
 ## Citation
 
 If you reference this work:
 
-Kabaka, J. M. (2025). *Research Notes: Algorithmic Inequity and Health Disparities*. Sequence Africa. Available at: [github.com/username/research-notes]
+Kabaka, J. M. (2025). *Research Notes: Algorithmic Inequity and Health Disparities*. Sequence Africa. Available at: github.com/joymanyasi/research-notes
 
 ## License
 
 [CC-BY 4.0](LICENSE) — Share and adapt with attribution.
+
