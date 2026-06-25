@@ -1,0 +1,31 @@
+The Invisible Patient
+Genomic Representation, AI Governance, and Breast Cancer Prediction in East Africa
+
+Joy Manyasi Kabaka 
+Founder, Sequence Africa
+
+
+
+ Executive Summary
+Artificial intelligence is reshaping cancer care through diagnostic imaging, genomic risk prediction, and precision medicine. Yet these systems are only as equitable as the data used to build them. Across biomedical AI, African populations remain critically underrepresented in training datasets, raising concerns about the fairness, reliability, and clinical relevance of technologies increasingly promoted as solutions to Africa's cancer burden.
+
+This research note argues that the absence of East African women from biomedical datasets is not merely a technical oversight but a social and political condition requiring social and political analysis. Questions of algorithmic fairness cannot be separated from questions of representation, governance, and scientific sovereignty.
+
+ The Problem
+Africa contains more than 70% of global human genetic diversity yet accounts for approximately 2% of participants in genome-wide association studies. Only 1% of global health data originates from African countries. When populations are missing from training data, AI systems may systematically underperform for those populations, contributing to delayed diagnosis, inaccurate risk assessment, and unequal access to the benefits of precision medicine.
+
+ Why East Africa and Why TNBC?
+Triple-negative breast cancer (TNBC) provides a particularly important lens through which to examine these issues. TNBC is the most aggressive breast cancer subtype, and evidence suggests it occurs at substantially higher rates in several East African populations than in European populations. Emerging genomic studies reveal distinct biological characteristics that are rarely reflected in the datasets used to develop contemporary AI systems.
+
+Research Questions
+This research programme is organized around four interconnected questions:
+* Structural: What historical, institutional, and political-economic factors have contributed to the underrepresentation of East African women in genomic and clinical AI datasets?
+* Technical-Social: How does dataset imbalance influence the performance and fairness of AI-based breast cancer prediction systems when applied to East African populations?
+* Governance: How do existing health data governance frameworks in East Africa enable or constrain equitable AI development?
+* Normative: What alternative governance approaches, including Ubuntu-informed and data justice frameworks, can support more accountable and context-sensitive biomedical AI?
+
+ Why This Matters
+Underrepresentation is not simply a data problem; it is a governance problem, a research infrastructure problem, and ultimately a justice problem. Addressing these challenges requires moving beyond technical optimization toward broader questions of participation, accountability, and scientific sovereignty. If AI is to contribute meaningfully to cancer care in East Africa, the communities most affected by these technologies must also be represented in the data, institutions, and governance structures that shape them.
+
+---
+*About the Author: Joy Manyasi Kabaka is a molecular biologist and founder of Sequence Africa. Her work explores the intersections of genomics, artificial intelligence, scientific sovereignty, and science communication.
