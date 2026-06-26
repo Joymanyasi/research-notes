@@ -29,7 +29,7 @@ AI systems in biomedical research are often treated as neutral technical instrum
 When those conditions systematically exclude entire populations, two questions arise:
 
 1. **What gets encoded into the models?**  
-2. **What—and who—gets left out?**
+2. **What and who  gets left out?**
 
 I am especially interested in how this plays out for **triple‑negative breast cancer (TNBC) in East African women**, where:
 
