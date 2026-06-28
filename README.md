@@ -63,9 +63,9 @@ This will expand over time as I add new notes, questions, and connections.
 
 Some of the writing that has strongly influenced these notes includes:
 
-- Abeba Birhane on **algorithmic colonialism** and the politics of "AI for good"  
-- Sekalala, Chatikobo and colleagues on **digital health agendas in the Global South**  
-- Work on **African genomic diversity gaps** and their implications for global health and AI  
+  - Work on **African genomic diversity gaps** and their implications for global health and AI 
+ - Sekalala, Chatikobo and colleagues on **digital health agendas in the Global South**  
+ -  Abeba Birhane on **algorithmic colonialism** and the politics of "AI for good"
 - Studies on **racial bias in healthcare algorithms** and how inequity can be embedded in seemingly objective systems  
 
 These texts are starting points for thinking, not endpoints or fixed authorities.
