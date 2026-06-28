@@ -48,11 +48,12 @@ These notes treat that not simply as a performance issue but as a case of **algo
 ---
 
 ## What's Here (Right Now)
-
-| Document          | Description                                                                                     | Status      |
-|-------------------|-------------------------------------------------------------------------------------------------|-------------|
-| Research Note 001 | Early reflections on dataset imbalance as a structural problem, not just a technical deficit   | Draft       |
+| Document | Description | Status |
+| :--- | :--- | :--- |
+| [Research Note 001](/Research_Note_001.md) | Early reflections on dataset imbalance as a structural problem, not just a technical deficit. | [Read Markdown](/Research_Note_001.md) / [PDF](/Research%20Note%20001.pdf) |
 | **[Reading Notes](/Bibliography)** | Systematic literature mapping and "Curiosity Points" on the Core 10 papers shaping this project. | **Active Sprint** |
+
+ 
 
 
 This will expand over time as I add new notes, questions, and connections.
