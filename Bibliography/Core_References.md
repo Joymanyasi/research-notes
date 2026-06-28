@@ -1,6 +1,6 @@
 # 🔍 Core References & Curiosity Points
 
-These 10 papers represent the intellectual anchors of this investigation. For each, I am exploring a "Curiosity Point"—a specific question or tension that connects the biological data to the social reality.
+These 10 papers represent the intellectual anchors of this investigation. For each, I am exploring a "Curiosity Point"a specific question or tension that connects the biological data to the social reality.
 
 ## 🧬 Pillar 1: Genomic Necessity
 
