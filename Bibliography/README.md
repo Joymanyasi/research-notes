@@ -2,7 +2,7 @@
 
 This folder serves as a living evidence base for a research project investigating the intersection of genomic diversity, AI performance, and data sovereignty in East African healthcare. 
 
-The project is driven by a central question: **How does the global imbalance in biomedical datasets impact the visibility and care of the "invisible patient"—specifically East African women with Triple-Negative Breast Cancer (TNBC)?**
+The project is driven by a central question: **How does the global imbalance in biomedical datasets impact the visibility and care of the "invisible patient"specifically East African women with Triple-Negative Breast Cancer (TNBC)?**
 
 ## 🎯 Scope of Investigation
 - **Biological Focus:** TNBC genomics in African-ancestry populations.
